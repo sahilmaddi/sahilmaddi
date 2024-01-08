@@ -10,5 +10,5 @@
 <center>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;💻My Tech Stack:</center>
 
 
-![image](https://github.com/sahilmaddi/sahilmaddi/assets/101131740/c849a4a8-b4fc-4e2c-ac55-284796e66333) width =30%
+![image](https://github.com/sahilmaddi/sahilmaddi/assets/101131740/c849a4a8-b4fc-4e2c-ac55-284796e66333)
 
