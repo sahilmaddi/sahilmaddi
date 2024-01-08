@@ -5,6 +5,7 @@
 <center><img src="https://forthebadge.com/images/badges/winter-is-coming.svg"/></center>
  <center><img src="https://forthebadge.com/images/badges/powered-by-water.svg"/></center>
  <center><img src="https://forthebadge.com/images/badges/open-source.svg"/></center>
+ <center><img src="https://camo.githubusercontent.com/719f6986cdaa2e055674233ed574b71910c2624e69bf02dc6dd2893c79e2a997/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6173736574732e636f766572616c6c732e696f2f6261646765732f636f766572616c6c735f3130302e737667" /></center>
 </div>
  <div>
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp; <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />>&nbsp; <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /> &nbsp;
