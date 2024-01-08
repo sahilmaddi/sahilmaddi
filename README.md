@@ -4,7 +4,7 @@
   </div>
 <div>
   &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/Java-Developer">&nbsp; <img alt="Static Badge" src="https://img.shields.io/badge/Spring-Boot-Developer">&nbsp; <img alt="Static Badge" src="https://img.shields.io/badge/React.js-developer">&nbsp; <img alt="Static Badge" src="https://img.shields.io/badge/Spring-XML-developer">&nbsp; 
+<img alt="Static Badge" src="https://img.shields.io/badge/Java-Developer">&nbsp; <img alt="Static Badge" src="https://img.shields.io/badge/Spring-Boot-Developer">&nbsp; <img alt="Static Badge" src="https://img.shields.io/badge/React.js-developer">&nbsp; <img alt="Static Badge" src="https://img.shields.io/badge/Spring-XML-developer">&nbsp; <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> &nbsp;<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
 </div>
 <hr/>
 
