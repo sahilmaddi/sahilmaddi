@@ -1,4 +1,5 @@
 <center>🧑‍💻Sahil Maddi:</center>
-![Static Badge](https://img.shields.io/badge/Java-Developer)
+<img alt="Static Badge" src="https://img.shields.io/badge/Java-Developer">
+
 
 
