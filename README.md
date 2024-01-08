@@ -10,7 +10,7 @@
 <center>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;💻My Tech Stack:</center>
 
 
-<img src = "![html5](https://github.com/sahilmaddi/sahilmaddi/assets/101131740/fc30821b-7041-4afb-936d-b0dc88550cc0)" width ="30%" height="30%"/>
+![html5](https://github.com/sahilmaddi/sahilmaddi/assets/101131740/fc30821b-7041-4afb-936d-b0dc88550cc0)
 &nbsp;
 ![bootstrap](https://github.com/sahilmaddi/sahilmaddi/assets/101131740/cb6b6e17-1aa5-42d8-ac7c-5f49b340f399)
 &nbsp;
