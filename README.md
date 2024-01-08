@@ -27,6 +27,7 @@
 <img src ="https://github.com/sahilmaddi/sahilmaddi/assets/101131740/1b74ce9a-36a1-4c1d-9b71-c96e791746e7" width = "5%" height="10%"/>&nbsp;
 <img src ="https://github.com/sahilmaddi/sahilmaddi/assets/101131740/c849a4a8-b4fc-4e2c-ac55-284796e66333" width = "5%" height="10%"/>&nbsp;
 <img src ="https://github.com/sahilmaddi/sahilmaddi/assets/101131740/9daf588c-5ddb-4c21-9d5c-19f6d7acc127" width = "5%" height="10%"/>&nbsp;
+ <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="5%" height="10%"/>
 </center>
 
 <!--[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilmaddi)](https://github.com/sahilmaddi/github-readme-stats)-->
