@@ -20,7 +20,7 @@
 </center>
 
 <!--[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilmaddi)](https://github.com/sahilmaddi/github-readme-stats)-->
-![Quote](https://github-readme-quotes.herokuapp.com/quote)
+<!--![Quote](https://github-readme-quotes.herokuapp.com/quote)-->
 
 
 
