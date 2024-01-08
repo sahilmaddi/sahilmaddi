@@ -40,7 +40,7 @@
 <hr/>
 
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilmaddi&show_icons=true&theme=radical)
-<br/>
+<hr/>
 ![Profile Views SahilMaddi](https://komarev.com/ghpvc/?username=sahilmaddi)
 
 
