@@ -25,7 +25,7 @@
 <!--[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilmaddi)](https://github.com/sahilmaddi/github-readme-stats)-->
 <!--![Quote](https://github-readme-quotes.herokuapp.com/quote)-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilmaddi&show_icons=true&theme=radical)
 
 
 
