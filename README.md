@@ -19,7 +19,7 @@
 <img src ="https://github.com/sahilmaddi/sahilmaddi/assets/101131740/d64f7e69-7961-4cc3-8195-31a61083eb0e" width = "10%" height="10%"/>&nbsp;
 </center>
 
-[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilmaddi)](https://github.com/anuraghazra/github-readme-stats)
+[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilmaddi)](https://github.com/sahilmaddi/github-readme-stats)
 
 
 
