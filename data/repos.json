@@ -1,7 +1,22 @@
 {
  "login": "sahilmaddi",
  "public_repos": 14,
+ "fetched_at": "2026-11-10T14:11:13Z",
  "pinned": [
+  {
+   "name": "quickbite-food-delivery",
+   "description": "Food ordering & delivery platform: Spring Boot microservices (Gateway, Eureka, JWT, Kafka, PostgreSQL) with a React + Tailwind CSS front end",
+   "url": "https://github.com/sahilmaddi/quickbite-food-delivery",
+   "stars": 0,
+   "forks": 0,
+   "fork": false,
+   "pushed_at": "2026-11-10T04:02:55Z",
+   "language": {
+    "name": "Java",
+    "color": "#b07219"
+   },
+   "topics": []
+  },
   {
    "name": "intellimeet-ai",
    "description": null,
@@ -45,18 +60,51 @@
    "topics": []
   },
   {
-   "name": "pokemon-trading-cards",
-   "description": null,
-   "url": "https://github.com/sahilmaddi/pokemon-trading-cards",
+   "name": "askwise-agentic-rag",
+   "description": "Agentic RAG over your documents: FastAPI + LangChain, hybrid search, Prompty prompts, pluggable LLMs, OpenTelemetry/Grafana, Docker/K8s/Terraform, React + Tailwind",
+   "url": "https://github.com/sahilmaddi/askwise-agentic-rag",
    "stars": 0,
    "forks": 0,
    "fork": false,
-   "pushed_at": "2026-11-09T14:25:22Z",
+   "pushed_at": "2026-11-10T13:25:30Z",
    "language": {
-    "name": "JavaScript",
-    "color": "#f1e05a"
+    "name": "Python",
+    "color": "#3572A5"
    },
    "topics": []
+  },
+  {
+   "name": "bankflow-digital-banking",
+   "description": "Digital banking microservices: Spring Boot core banking (idempotent transfers, double-entry ledger, JWT) + Kafka notification service, React + Tailwind CSS front end",
+   "url": "https://github.com/sahilmaddi/bankflow-digital-banking",
+   "stars": 0,
+   "forks": 0,
+   "fork": false,
+   "pushed_at": "2026-11-10T13:12:11Z",
+   "language": {
+    "name": "Java",
+    "color": "#b07219"
+   },
+   "topics": []
+  }
+ ],
+ "recent": [
+  {
+   "name": "sahilmaddi",
+   "description": "Config files for my GitHub profile.",
+   "url": "https://github.com/sahilmaddi/sahilmaddi",
+   "stars": 0,
+   "forks": 0,
+   "fork": false,
+   "pushed_at": "2026-11-10T14:10:50Z",
+   "language": {
+    "name": "Python",
+    "color": "#3572A5"
+   },
+   "topics": [
+    "config",
+    "github-config"
+   ]
   },
   {
    "name": "Payment_Integration_API",
@@ -65,7 +113,7 @@
    "stars": 0,
    "forks": 0,
    "fork": false,
-   "pushed_at": "2024-10-10T09:43:51Z",
+   "pushed_at": "2026-11-10T13:43:37Z",
    "language": {
     "name": "Java",
     "color": "#b07219"
@@ -79,15 +127,41 @@
    "stars": 0,
    "forks": 0,
    "fork": false,
-   "pushed_at": "2024-09-10T16:40:22Z",
+   "pushed_at": "2026-11-10T13:43:08Z",
    "language": {
     "name": "Java",
     "color": "#b07219"
    },
    "topics": []
-  }
- ],
- "recent": [
+  },
+  {
+   "name": "Portfolio",
+   "description": "This is a portfolio project",
+   "url": "https://github.com/sahilmaddi/Portfolio",
+   "stars": 0,
+   "forks": 0,
+   "fork": true,
+   "pushed_at": "2026-11-10T13:28:53Z",
+   "language": {
+    "name": "JavaScript",
+    "color": "#f1e05a"
+   },
+   "topics": []
+  },
+  {
+   "name": "askwise-agentic-rag",
+   "description": "Agentic RAG over your documents: FastAPI + LangChain, hybrid search, Prompty prompts, pluggable LLMs, OpenTelemetry/Grafana, Docker/K8s/Terraform, React + Tailwind",
+   "url": "https://github.com/sahilmaddi/askwise-agentic-rag",
+   "stars": 0,
+   "forks": 0,
+   "fork": false,
+   "pushed_at": "2026-11-10T13:25:30Z",
+   "language": {
+    "name": "Python",
+    "color": "#3572A5"
+   },
+   "topics": []
+  },
   {
    "name": "bankflow-digital-banking",
    "description": "Digital banking microservices: Spring Boot core banking (idempotent transfers, double-entry ledger, JWT) + Kafka notification service, React + Tailwind CSS front end",
@@ -129,7 +203,90 @@
     "color": "#b07219"
    },
    "topics": []
+  },
+  {
+   "name": "intellimeet-ai",
+   "description": null,
+   "url": "https://github.com/sahilmaddi/intellimeet-ai",
+   "stars": 0,
+   "forks": 0,
+   "fork": false,
+   "pushed_at": "2026-11-09T18:50:44Z",
+   "language": {
+    "name": "JavaScript",
+    "color": "#f1e05a"
+   },
+   "topics": []
+  },
+  {
+   "name": "pokemon-trading-cards",
+   "description": null,
+   "url": "https://github.com/sahilmaddi/pokemon-trading-cards",
+   "stars": 0,
+   "forks": 0,
+   "fork": false,
+   "pushed_at": "2026-11-09T14:25:22Z",
+   "language": {
+    "name": "JavaScript",
+    "color": "#f1e05a"
+   },
+   "topics": []
+  },
+  {
+   "name": "sketchtocode",
+   "description": null,
+   "url": "https://github.com/sahilmaddi/sketchtocode",
+   "stars": 0,
+   "forks": 0,
+   "fork": false,
+   "pushed_at": "2025-05-13T19:00:43Z",
+   "language": {
+    "name": "JavaScript",
+    "color": "#f1e05a"
+   },
+   "topics": []
+  },
+  {
+   "name": "springboot-sketchtocode",
+   "description": null,
+   "url": "https://github.com/sahilmaddi/springboot-sketchtocode",
+   "stars": 0,
+   "forks": 0,
+   "fork": false,
+   "pushed_at": "2025-05-13T18:56:45Z",
+   "language": {
+    "name": "Java",
+    "color": "#b07219"
+   },
+   "topics": []
+  },
+  {
+   "name": "polling",
+   "description": null,
+   "url": "https://github.com/sahilmaddi/polling",
+   "stars": 0,
+   "forks": 0,
+   "fork": false,
+   "pushed_at": "2024-06-29T08:12:03Z",
+   "language": {
+    "name": "Java",
+    "color": "#b07219"
+   },
+   "topics": []
+  },
+  {
+   "name": "hotel-react-component",
+   "description": null,
+   "url": "https://github.com/sahilmaddi/hotel-react-component",
+   "stars": 0,
+   "forks": 0,
+   "fork": false,
+   "pushed_at": "2022-12-13T09:28:53Z",
+   "language": {
+    "name": "JavaScript",
+    "color": "#f1e05a"
+   },
+   "topics": []
   }
- ],
- "fetched_at": "2026-11-10T13:20:00Z"
+ ]
 }
