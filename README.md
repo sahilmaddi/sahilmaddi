@@ -63,6 +63,10 @@ I'm a Java Full Stack Developer with 4+ years of experience building enterprise 
 
 | Project | What it does | Built with |
 |---|---|---|
+| [**QuickBite**](https://github.com/sahilmaddi/quickbite-food-delivery) | Food delivery microservices: customer, restaurant-owner and rider apps, API gateway with JWT, services talking over Kafka | Spring Boot · Spring Cloud · Kafka · PostgreSQL · React · Tailwind CSS · Docker |
+| [**BankFlow**](https://github.com/sahilmaddi/bankflow-digital-banking) | Digital banking: idempotent transfers, row-level locking, double-entry ledger, Kafka notifications with a dead-letter topic | Spring Boot · Spring Security (OAuth2 JWT) · Kafka · PostgreSQL · React · Tailwind CSS |
+| [**HireHub**](https://github.com/sahilmaddi/hirehub-job-portal) | Job portal: search and apply, recruiter pipeline with an audited status workflow, role-based access | Spring Boot · Spring Security · JPA · PostgreSQL · React · Tailwind CSS |
+| [**Askwise**](https://github.com/sahilmaddi/askwise-agentic-rag) | Agentic RAG: answers questions about your documents with citations; hybrid search, query rewriting, groundedness checks | Python · FastAPI · LangChain · FAISS · React · Tailwind CSS · Kubernetes · Terraform |
 | [**IntelliMeet AI**](https://github.com/sahilmaddi/intellimeet-ai) | Video meetings with live transcription, AI summaries, link extraction and a Q&A assistant | Spring Boot · WebSocket · WebRTC · React · PostgreSQL · FastAPI |
 | [**Polling App**](https://github.com/sahilmaddi/polling) | Create polls and vote with real-time results; Admin and User dashboards with role-based access | Spring Boot · Spring Security · React · Docker |
 | [**SketchToCode**](https://github.com/sahilmaddi/sketchtocode) · [backend](https://github.com/sahilmaddi/springboot-sketchtocode) | Upload a hand-drawn UI sketch, pick a framework and download starter code | Spring Boot · Python · React · PostgreSQL |
