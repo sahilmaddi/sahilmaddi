@@ -1,0 +1,135 @@
+{
+ "login": "sahilmaddi",
+ "public_repos": 14,
+ "pinned": [
+  {
+   "name": "intellimeet-ai",
+   "description": null,
+   "url": "https://github.com/sahilmaddi/intellimeet-ai",
+   "stars": 0,
+   "forks": 0,
+   "fork": false,
+   "pushed_at": "2026-11-09T18:50:44Z",
+   "language": {
+    "name": "JavaScript",
+    "color": "#f1e05a"
+   },
+   "topics": []
+  },
+  {
+   "name": "polling",
+   "description": null,
+   "url": "https://github.com/sahilmaddi/polling",
+   "stars": 0,
+   "forks": 0,
+   "fork": false,
+   "pushed_at": "2024-06-29T08:12:03Z",
+   "language": {
+    "name": "Java",
+    "color": "#b07219"
+   },
+   "topics": []
+  },
+  {
+   "name": "sketchtocode",
+   "description": null,
+   "url": "https://github.com/sahilmaddi/sketchtocode",
+   "stars": 0,
+   "forks": 0,
+   "fork": false,
+   "pushed_at": "2025-05-13T19:00:43Z",
+   "language": {
+    "name": "JavaScript",
+    "color": "#f1e05a"
+   },
+   "topics": []
+  },
+  {
+   "name": "pokemon-trading-cards",
+   "description": null,
+   "url": "https://github.com/sahilmaddi/pokemon-trading-cards",
+   "stars": 0,
+   "forks": 0,
+   "fork": false,
+   "pushed_at": "2026-11-09T14:25:22Z",
+   "language": {
+    "name": "JavaScript",
+    "color": "#f1e05a"
+   },
+   "topics": []
+  },
+  {
+   "name": "Payment_Integration_API",
+   "description": null,
+   "url": "https://github.com/sahilmaddi/Payment_Integration_API",
+   "stars": 0,
+   "forks": 0,
+   "fork": false,
+   "pushed_at": "2024-10-10T09:43:51Z",
+   "language": {
+    "name": "Java",
+    "color": "#b07219"
+   },
+   "topics": []
+  },
+  {
+   "name": "usermgmt",
+   "description": null,
+   "url": "https://github.com/sahilmaddi/usermgmt",
+   "stars": 0,
+   "forks": 0,
+   "fork": false,
+   "pushed_at": "2024-09-10T16:40:22Z",
+   "language": {
+    "name": "Java",
+    "color": "#b07219"
+   },
+   "topics": []
+  }
+ ],
+ "recent": [
+  {
+   "name": "bankflow-digital-banking",
+   "description": "Digital banking microservices: Spring Boot core banking (idempotent transfers, double-entry ledger, JWT) + Kafka notification service, React + Tailwind CSS front end",
+   "url": "https://github.com/sahilmaddi/bankflow-digital-banking",
+   "stars": 0,
+   "forks": 0,
+   "fork": false,
+   "pushed_at": "2026-11-10T13:12:11Z",
+   "language": {
+    "name": "Java",
+    "color": "#b07219"
+   },
+   "topics": []
+  },
+  {
+   "name": "hirehub-job-portal",
+   "description": "Job portal: Spring Boot REST API (Spring Security JWT, role-based access, JPA Specifications) with a React + Tailwind CSS front end",
+   "url": "https://github.com/sahilmaddi/hirehub-job-portal",
+   "stars": 0,
+   "forks": 0,
+   "fork": false,
+   "pushed_at": "2026-11-10T12:47:19Z",
+   "language": {
+    "name": "Java",
+    "color": "#b07219"
+   },
+   "topics": []
+  },
+  {
+   "name": "quickbite-food-delivery",
+   "description": "Food ordering & delivery platform: Spring Boot microservices (Gateway, Eureka, JWT, Kafka, PostgreSQL) with a React + Tailwind CSS front end",
+   "url": "https://github.com/sahilmaddi/quickbite-food-delivery",
+   "stars": 0,
+   "forks": 0,
+   "fork": false,
+   "pushed_at": "2026-11-10T04:02:55Z",
+   "language": {
+    "name": "Java",
+    "color": "#b07219"
+   },
+   "topics": []
+  }
+ ],
+ "fetched_at": "2026-11-10T13:20:00Z"
+}
