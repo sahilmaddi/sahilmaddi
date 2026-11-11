@@ -2,7 +2,7 @@
 
 <a href="https://portfolio-sahilmaddis-projects.vercel.app"><img src="./cards/hero.svg" width="100%" alt="Sahil Maddi, Java Full Stack Developer" /></a>
 
-<img src="./cards/graph.svg" width="100%" alt="29 contributions in the last year" />
+<img src="./cards/graph.svg" width="100%" alt="30 contributions in the last year" />
 
 <img src="./cards/activity.svg" width="100%" alt="Monthly contributions and streaks" />
 
